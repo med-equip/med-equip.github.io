@@ -1,0 +1,16 @@
+navigation:
+- title: Service
+  url: /service/
+  weight: "1"
+- title: Training
+  url: /training/
+  weight: "2"
+- title: Warranty
+  url: /warranty/
+  weight: "3"
+- title: Company Info
+  url: /company-info/
+  weight: "4"
+- title: Full Service Consultation
+  url: /full-service/
+  weight: "5"
