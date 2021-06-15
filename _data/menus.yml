@@ -1,16 +1,22 @@
 navigation:
+- title: Certified-Preowned Devices
+  url: /pre-owned-devices/
+  weight: "1"
+- title: NEW Devices
+  url: /new-devices/
+  weight: "2"
 - title: Service
   url: /service/
-  weight: "1"
+  weight: "3"
 - title: Training
   url: /training/
-  weight: "2"
+  weight: "4"
 - title: Warranty
   url: /warranty/
-  weight: "3"
+  weight: "5"
 - title: Company Info
   url: /company-info/
-  weight: "4"
+  weight: "6"
 - title: Full Service Consultation
   url: /full-service/
-  weight: "5"
+  weight: "7"
