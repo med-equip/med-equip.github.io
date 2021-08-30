@@ -5,18 +5,21 @@ navigation:
 - title: NEW Devices
   url: /new-devices/
   weight: "2"
+- title: Application Development
+  url: /application-development/
+  weight: "3"
 - title: Service
   url: /service/
-  weight: "3"
+  weight: "4"
 - title: Training
   url: /training/
-  weight: "4"
+  weight: "5"
 - title: Warranty
   url: /warranty/
-  weight: "5"
+  weight: "6"
 - title: Company Info
   url: /company-info/
-  weight: "6"
+  weight: "7"
 - title: Full Service Consultation
   url: /full-service/
-  weight: "7"
+  weight: "8"
