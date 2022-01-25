@@ -33,3 +33,12 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
     integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
   <link rel="stylesheet" href="/style.css" />
+  <link rel="stylesheet" href="https://unpkg.com/formiojs@latest/dist/formio.full.min.css">
+  <script src="https://unpkg.com/formiojs@latest/dist/formio.full.min.js"></script>
+  <script type="text/javascript">
+    window.onload = function() {
+      Formio.createForm(document.getElementById('service-form'), 'https://iyvcnglfwubheve.form.io/servicetrainingwarranty');
+      Formio.createForm(document.getElementById('preowned-form'), 'https://iyvcnglfwubheve.form.io/certifiedpreowneddevices');
+      Formio.createForm(document.getElementById('newdevices-form'), 'https://iyvcnglfwubheve.form.io/newdevices');
+    };
+  </script>
