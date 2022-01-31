@@ -8,15 +8,12 @@ navigation:
 - title: Regenerative Medicine Opportunities
   url: /regenerative-medicine-opportunities/
   weight: "3"
-- title: Practice Development
-  url: /practice-development/
-  weight: "4"
 - title: 360° Practice Consultation
   url: /360-practice-consultation/
-  weight: "5"
+  weight: "4"
 - title: Training
   url: /training/
-  weight: "6"
+  weight: "5"
 - title: Warranty
   url: /warranty/
   weight: "7"
