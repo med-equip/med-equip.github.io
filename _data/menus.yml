@@ -1,25 +1,25 @@
 navigation:
-- title: Certified-Preowned Devices
-  url: /pre-owned-devices/
-  weight: "1"
 - title: NEW Devices
   url: /new-devices/
+  weight: "1"
+- title: Certified-Preowned Devices
+  url: /certified-preowned-devices/
   weight: "2"
-- title: Application Development
-  url: /application-development/
+- title: Regenerative Medicine Opportunities
+  url: /regenerative-medicine-opportunities/
   weight: "3"
-- title: Service
-  url: /service/
+- title: Practice Development
+  url: /practice-development/
   weight: "4"
+- title: 360° Practice Consultation
+  url: /360-practice-consultation/
+  weight: "5"
 - title: Training
   url: /training/
-  weight: "5"
+  weight: "6"
 - title: Warranty
   url: /warranty/
-  weight: "6"
+  weight: "7"
 - title: Company Info
   url: /company-info/
-  weight: "7"
-- title: Full Service Consultation
-  url: /full-service/
   weight: "8"
